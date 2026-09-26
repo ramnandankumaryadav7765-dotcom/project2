@@ -1,3 +1,6 @@
 # New Project
 
-This project was createdfrom local
+This project was created from local
+
+And Created by:
+# Ramnandan Kumar
